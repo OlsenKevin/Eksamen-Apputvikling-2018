@@ -1,0 +1,35 @@
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\bin\Debug\eksamen2018wf.exe.config
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\bin\Debug\eksamen2018wf.exe
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\bin\Debug\eksamen2018wf.pdb
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\bin\Debug\MySql.Data.dll
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.tredjeside.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.forsteside.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.logginn.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.adminpanel.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.Properties.Resources.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.registrerbruker.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.andreside.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.csproj.GenerateResource.Cache
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.csproj.CoreCompileInputs.cache
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.exe
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.pdb
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.csprojResolveAssemblyReference.cache
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.fjerdeside.resources
+C:\Users\andreas\source\Workspaces\c-team2018\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.femteside.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\bin\Debug\eksamen2018wf.exe.config
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\bin\Debug\eksamen2018wf.exe
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\bin\Debug\eksamen2018wf.pdb
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.femteside.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.fjerdeside.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.tredjeside.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.forsteside.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.logginn.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.adminpanel.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.Properties.Resources.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.registrerbruker.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.andreside.resources
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.csproj.GenerateResource.Cache
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.exe
+C:\Users\Kevin Olsen\Documents\Skole\APP2000V\Eksamen 2018 C-TEAM\windowsForms\eksamen2018wf\obj\Debug\eksamen2018wf.pdb

@@ -1,0 +1,14 @@
+﻿
+
+ul {
+    list-style-type: none;
+}
+
+li > h5 {
+    color: white;
+}
+
+#game {
+    height: 100px;
+    width: 100px;
+}
